@@ -19,4 +19,6 @@
 15. Term Project Presentations (Part 2)
 
 
+Course Textbooks: [IR and Deep Learning for NLP Textbooks](Books)
+
 Course Term Project Link: [Term Project](https://github.com/GokayGulsoy/Benchmarking-Retrieval-Supported-Large-Language-Models-for-Open-Domain-Question-Answering)
